@@ -3,8 +3,8 @@
 A Railway Reservation System project implemented in C++ using Object-Oriented Programming (OOP) principles. This project simulates the booking and management of train tickets.
 
 ## Features
+![Output Screenshot](https://github.com/kavyanjani123/Railway_Reservation/blob/main/output.png?raw=true)
 
-- **User Registration and Login**: Allows users to create an account and log in.
 - **Train Information**: Displays train schedules and availability.
 - **Ticket Booking**: Enables users to book tickets.
 - **Ticket Cancellation**: Allows users to cancel booked tickets.
@@ -25,4 +25,4 @@ A Railway Reservation System project implemented in C++ using Object-Oriented Pr
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/kavyanjani123/Railway_Reservation
